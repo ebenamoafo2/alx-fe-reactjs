@@ -4,7 +4,7 @@ import Footer from './components/Footer.jsx'
 import './App.css'
 import WelcomeMessage from './components/WelcomeMessage.jsx'
 import UserProfile from './components/UserProfile.jsx'
-import UserContext from './components/userContext.js'
+import UserContext from './context/UserContext.js'
 import Profilepage from './components/Profilepage.jsx'
 
 
